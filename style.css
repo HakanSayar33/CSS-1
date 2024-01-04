@@ -1,0 +1,16 @@
+section {
+  background-color: #faf1e4;
+  text-align: center;
+}
+h1 {
+  color: darkolivegreen;
+}
+h2 {
+  color: olivedrab;
+}
+ul {
+  list-style-type: none;
+}
+a {
+  color: olivedrab;
+}
